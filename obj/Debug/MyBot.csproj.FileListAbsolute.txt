@@ -1,0 +1,11 @@
+C:\Users\Olivier\documents\visual studio 2017\Projects\MyBot\MyBot\obj\Debug\MyBot.Interface.FormBot.resources
+C:\Users\Olivier\documents\visual studio 2017\Projects\MyBot\MyBot\obj\Debug\MyBot.ConsoleLog.resources
+C:\Users\Olivier\documents\visual studio 2017\Projects\MyBot\MyBot\obj\Debug\MyBot.Main.resources
+C:\Users\Olivier\documents\visual studio 2017\Projects\MyBot\MyBot\obj\Debug\MyBot.Properties.Resources.resources
+C:\Users\Olivier\documents\visual studio 2017\Projects\MyBot\MyBot\obj\Debug\MyBot.csproj.GenerateResource.Cache
+C:\Users\Olivier\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Debug\MyBot.exe.config
+C:\Users\Olivier\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Debug\MyBot.exe
+C:\Users\Olivier\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Debug\MyBot.pdb
+C:\Users\Olivier\documents\visual studio 2017\Projects\MyBot\MyBot\obj\Debug\MyBot.exe
+C:\Users\Olivier\documents\visual studio 2017\Projects\MyBot\MyBot\obj\Debug\MyBot.pdb
+C:\Users\Olivier\documents\visual studio 2017\Projects\MyBot\MyBot\obj\Debug\MyBot.csprojResolveAssemblyReference.cache
